@@ -1,0 +1,38 @@
+#tracker-button{
+
+	width: 150px;
+	height: 40px;
+
+	line-height: 40px;
+
+	border: 2px red solid;
+	border-radius: 12px;
+
+	left: 10px;
+	top: 12%;
+}
+
+.data-table, .data-box {
+    border:1px solid black;
+  }
+
+.navbar {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #008;
+}
+
+.nav-link {
+	float: left;
+	display: block;
+	padding: 14px 16px;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+}
+
+.nav-link:hover {
+	background-color: #111;
+}

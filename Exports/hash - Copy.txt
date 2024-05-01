@@ -1,0 +1,5 @@
+February 5, 2024;C:\Personal Projects\StockOptions\Exports\02052024154740.txt
+February 29, 2024;C:\Personal Projects\StockOptions\Exports\02292024153857.txt
+March 7, 2024;C:\Personal Projects\StockOptions\Exports\03072024125617.txt
+March 14, 2024;C:\Personal Projects\StockOptions\Exports\03142024153521.txt
+March 21, 2024;C:\Personal Projects\StockOptions\Exports\03212024142104.txt
